@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on LaimonasBlog</title>
+    
+    
+    
+    <link>https://laimonqs.github.io/posts/</link>
+    <description>Recent content in Posts on LaimonasBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Nov 2023 19:43:32 +0200</lastBuildDate>
+    
+	<atom:link href="https://laimonqs.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home Page</title>
+      <link>https://laimonqs.github.io/posts/homepage/</link>
+      <pubDate>Tue, 14 Nov 2023 19:43:32 +0200</pubDate>
+      
+      <guid>https://laimonqs.github.io/posts/homepage/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          He decided water-skiing on a frozen lake wasn’t a good idea. In that instant, everything changed. The beauty of the sunset was obscured by the industrial cranes. The Guinea fowl flies through the air with all the grace of a turtle. The blue parrot drove by the hitchhiking mongoose. 
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
