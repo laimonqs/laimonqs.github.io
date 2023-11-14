@@ -16,10 +16,10 @@
     
     <item>
       <title>Kodo citata ir paveikslėlis</title>
-      <link>https://laimonqs.github.io/posts/kodasnuotrauka/</link>
+      <link>https://laimonqs.github.io/posts/kodas/</link>
       <pubDate>Tue, 14 Nov 2023 21:18:26 +0200</pubDate>
       
-      <guid>https://laimonqs.github.io/posts/kodasnuotrauka/</guid>
+      <guid>https://laimonqs.github.io/posts/kodas/</guid>
       <description>
         
           
@@ -30,7 +30,8 @@
         
           /***************************************************************************************
 Title: &amp;lt;title of program/source code&amp;gt; Author: &amp;lt;author(s) names&amp;gt; Date: Code version: Availability: &amp;lt;where it&amp;rsquo;s located&amp;gt; ***************************************************************************************/
-class HelloWorld { public static void main (String[] args) { System.out.println (&amp;ldquo;Hello World&amp;rdquo;); } }
+class HelloWorld {
+public static void main (String[] args) { System.out.println (&amp;quot;Hello World&amp;quot;); } }
           
         
         </description>
