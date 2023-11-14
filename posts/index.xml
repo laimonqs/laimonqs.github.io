@@ -9,10 +9,32 @@
     <description>Recent content in Posts on LaimonasBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Nov 2023 19:43:32 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 21:18:26 +0200</lastBuildDate>
     
 	<atom:link href="https://laimonqs.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kodo citata ir paveikslėlis</title>
+      <link>https://laimonqs.github.io/posts/kodasnuotrauka/</link>
+      <pubDate>Tue, 14 Nov 2023 21:18:26 +0200</pubDate>
+      
+      <guid>https://laimonqs.github.io/posts/kodasnuotrauka/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          /***************************************************************************************
+Title: &amp;lt;title of program/source code&amp;gt; Author: &amp;lt;author(s) names&amp;gt; Date: Code version: Availability: &amp;lt;where it&amp;rsquo;s located&amp;gt; ***************************************************************************************/
+class HelloWorld { public static void main (String[] args) { System.out.println (&amp;ldquo;Hello World&amp;rdquo;); } }
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Home Page</title>
